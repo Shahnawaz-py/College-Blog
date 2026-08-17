@@ -59,12 +59,11 @@ NEXTGEN-BIZFEST/
 
 ## Getting Started
 Clone the repository:
-
-git clone https://github.com/your-username/nextgen-bizfest.git
-
 Open the project folder and launch index.html in your browser.
-
 No additional dependencies or installations are required.
+
+Also, Running live: 
+https://shahnawaz-py.github.io/College-Blog/
 
 ## Responsive Design
 The website is designed for:
