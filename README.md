@@ -46,13 +46,15 @@ A student entrepreneurship event featuring products, services, food, crafts, tec
 ## Project Structure
 NEXTGEN-BIZFEST/
 │
+├── README.md
+├── day1.css
+├── day1.html
+├── day2.css
+├── day2.html
+├── day3.css
+├── day3.html
 ├── index.html
 ├── style.css
-├── day1.html
-├── day2.html
-├── day3.html
-├── day1.css
-├── day3.css
 └── README.md
 
 ## Getting Started
